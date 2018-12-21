@@ -3,13 +3,6 @@
 
 >一个基于 React + Webpack + es6 + Babel + ant-design 的新闻站点  
 
-项目主页 [Github-react_news_site](https://github.com/cjxmg/react_news_site)
-
-演示地址 [ReactNews](http://superxmg.site/project/react_news_site)
-
-
-
-
 **安装依赖**  
 ```shell
 npm install
